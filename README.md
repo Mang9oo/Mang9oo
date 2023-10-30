@@ -1,5 +1,4 @@
-### Hi there 👋
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Mang9oo&nbsp;&nbsp;Github!&fontSize=90" />
 <!--
 **Mang9oo/Mang9oo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
